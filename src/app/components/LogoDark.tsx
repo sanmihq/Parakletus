@@ -5,7 +5,7 @@ import React from "react";
 export default function LogoDark() {
   return (
     <Link href="./">
-      <Image src="/images/logo-black.png" />
+      <Image alt="logo dark" src="/images/logo-black.png" />
     </Link>
   );
 }
