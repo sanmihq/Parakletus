@@ -16,10 +16,10 @@ import Footer from "./components/Footer";
 import styles from "./layout.module.css";
 import theme from "./theme";
 
-export const metadata = {
-  title: "Parakletus",
-  description: "Bring your stories to life✨",
-};
+// export const metadata = {
+//   title: "Parakletus",
+//   description: "Bring your stories to life✨",
+// };
 
 export default function RootLayout({
   children,
