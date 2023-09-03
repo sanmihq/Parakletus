@@ -5,7 +5,7 @@ import React from "react";
 export default function LogoLight() {
   return (
     <Link href="./">
-      <Image src="/images/logo-white.png" />
+      <Image alt="logo light" src="/images/logo-white.png" />
     </Link>
   );
 }
