@@ -99,15 +99,15 @@ export default function Home() {
                 including print, e-book, and audiobook. Using state-of-the-art
                 technology, Parakletus Publishing ensures that all books are
                 produced to the highest standards, with professional formatting,
-                cover design, and editing. The company's digital publishing
+                cover design, and editing. The company&apos;s digital publishing
                 platform allows authors to track the progress of their books and
                 make changes to their manuscripts in real time. At Parakletus
-                Publishing, every story deserves to be told. That's why we work
-                closely with our authors to bring out the best in their writing
-                and help them achieve their publishing dreams. Our experienced
-                team of editors, designers, and marketers will guide you through
-                the entire publishing process, from manuscript evaluation to
-                book promotion.
+                Publishing, every story deserves to be told. That&apos;s why we
+                work closely with our authors to bring out the best in their
+                writing and help them achieve their publishing dreams. Our
+                experienced team of editors, designers, and marketers will guide
+                you through the entire publishing process, from manuscript
+                evaluation to book promotion.
               </Text>
             </Box>
           </Flex>
@@ -279,9 +279,9 @@ export default function Home() {
             What Users Are Saying About Parakletus Publishing
           </Heading>
           <Text maxW={"3xl"} mx={"auto"} my={4} fontSize={"sm"}>
-            Don't just take our word for it - hear from some of our satisfied
-            customers! Check out some of our testimonials below to see what
-            others are saying about Parakletus Publishing.
+            Don&apos;t just take our word for it - hear from some of our
+            satisfied customers! Check out some of our testimonials below to see
+            what others are saying about Parakletus Publishing.
           </Text>
         </Stack>
         <Slides />

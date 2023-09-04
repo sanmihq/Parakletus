@@ -179,14 +179,14 @@ export default function Slides() {
             my={4}
           >
             <Text>
-              When I published my book 'Unlocking Your Potential', it wouldn't
-              have been possible if not for the unrelenting accountability
-              partner that I witnessed all just for me. Especially Mr. Evander
-              Ikechukwu who has constantly encouraged me to 'get that book
-              done'. I must really appreciate the Parakletus publishing team for
-              a job well done. The professional production was such a pleasure.
-              I would love them to help me with publishing my other books over
-              and over again. Kudos to them!
+              When I published my book &apos;Unlocking Your Potential&apos;, it
+              wouldn&apos;t have been possible if not for the unrelenting
+              accountability partner that I witnessed all just for me.
+              Especially Mr. Evander Ikechukwu who has constantly encouraged me
+              to &apos;get that book done&apos;. I must really appreciate the
+              Parakletus publishing team for a job well done. The professional
+              production was such a pleasure. I would love them to help me with
+              publishing my other books over and over again. Kudos to them!
             </Text>
             <Flex direction={"row"} alignItems={"flex-start"} gap={4} mt={2}>
               <Icon
@@ -242,13 +242,13 @@ export default function Slides() {
             <Text>
               The best decision I took in 2020 was approaching the Parakletus
               Publishing Team for my work. I had a wide range of fiction and
-              nonfiction, penned down but didn't have the courage to publish. It
-              seemed like an unobtainable feat. But on discussing with these
-              professionals, I made up my mind. They had what it takes to make
-              one's idea come to life. From editing,to proofreading,
-              formatting,the designs not to mention the breathtaking book
-              review. Parakletus Publishing is simply side by side with
-              Professionalism and Perfection.
+              nonfiction, penned down but didn&apos;t have the courage to
+              publish. It seemed like an unobtainable feat. But on discussing
+              with these professionals, I made up my mind. They had what it
+              takes to make one&apos;s idea come to life. From editing,to
+              proofreading, formatting,the designs not to mention the
+              breathtaking book review. Parakletus Publishing is simply side by
+              side with Professionalism and Perfection.
             </Text>
             <Flex direction={"row"} alignItems={"flex-start"} gap={4} mt={2}>
               <Icon
